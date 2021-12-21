@@ -13,8 +13,8 @@
 ![CSSImg](./CSS.PNG "screen complete course CSS")
 ## Skills:
 *Low Level
-    * Python 
-    * Java
+   * Python 
+   * Java
     * JS 3
     * CSS3 4
     * HTML5 5
