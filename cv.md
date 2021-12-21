@@ -12,16 +12,16 @@
 ![CSSImg](.CSS.PNG "screen complete course CSS")
 ## Skills:
 *Low Level
-    +Python
-    +Java
-    +JS
-    +CSS3
-    +HTML5
-    +Git, Github
+    + Python 
+    +Java 2
+    +JS 3
+    +CSS3 4
+    +HTML5 5
+    +Git, Github 6
 
 *High Level
-    -teamwork
-    -ability to learn
+    - teamwork
+    - ability to learn
 
 ## Languages:
 1. Russian
