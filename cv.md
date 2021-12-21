@@ -15,20 +15,21 @@
 *Low Level
    * Python 
    * Java
-    * JS 3
-    * CSS3 4
-    * HTML5 5
-    * Git, Github 6
+   * JS 3
+   * CSS3 4
+   * HTML5 5
+   * Git, Github 6
 
 *High Level
-    * teamwork
-    * ability to learn
+   * teamwork
+   * ability to learn
 
 ## Languages:
 1. Russian
 2. English (A1 level)
 
 ## Examples of my code
+
 ```
 package ru.epam.izh.mikhail;
 
