@@ -1,22 +1,24 @@
 # **Gorshkov Mikhail**
 ## Contact info  
-### Tel +7 965 841 1000  *mail: bon1k@bk.ru*
+### Tel +7 965 841 1000  
+### *mail: bon1k@bk.ru*
 
 ## About Me:
 ### A person who is trying to comprehend the profession of a programmer!
 
 ## Education:
 * HTML and CSS Tutorials on the w3schools 
-![htmlImg](HTML.png "screen complete course html")
-![CSSImg](CSS.png "screen complete course CSS")
+![htmlImg](.HTML.PNG "screen complete course html")
+![CSSImg](.CSS.PNG "screen complete course CSS")
 ## Skills:
 *Low Level
-    -Python
-    -Java
-    -JS
-    -CSS3
-    -HTML5
-    -Git, Github
+    +Python
+    +Java
+    +JS
+    +CSS3
+    +HTML5
+    +Git, Github
+
 *High Level
     -teamwork
     -ability to learn
